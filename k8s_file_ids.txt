@@ -1,0 +1,6 @@
+assistant-SB1qhoEhyHrgLqYhZ5Pj7f data/kubernetes-doc-pdf-master/PDFs/Reference.pdf
+assistant-MGA2BX9Y32PcmGBA7NGd4o data/kubernetes-doc-pdf-master/PDFs/kubectl-commands.pdf
+assistant-X96h83LP58vcEyAEHrqnSx data/kubernetes-doc-pdf-master/PDFs/Tasks.pdf
+assistant-9sGDPt7bc6QveDn7TJ5gxA data/kubernetes-doc-pdf-master/PDFs/Setup.pdf
+assistant-4Rb8C1gpvMCQiBXSXdJGMY data/kubernetes-doc-pdf-master/PDFs/Concepts.pdf
+assistant-JuDaFJGzqN1Avwwtqi5YYW data/kubernetes-doc-pdf-master/PDFs/Tutorials.pdf
