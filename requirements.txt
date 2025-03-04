@@ -1,0 +1,17 @@
+requests
+kubernetes
+boto3
+pytest
+pytest-order
+pytest-xdist
+pytest-html
+names_generator
+Jinja2
+requests-toolbelt
+autogen-core
+autogen-ext[openai,azure,web-surfer]
+python-dotenv
+autogenstudio
+autogen-agentchat
+playwright
+azure-ai-projects
