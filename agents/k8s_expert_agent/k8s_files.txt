@@ -1,6 +1,6 @@
-data/kubernetes-doc-pdf-master/PDFs/Reference.pdf
-data/kubernetes-doc-pdf-master/PDFs/kubectl-commands.pdf
-data/kubernetes-doc-pdf-master/PDFs/Tasks.pdf
-data/kubernetes-doc-pdf-master/PDFs/Setup.pdf
-data/kubernetes-doc-pdf-master/PDFs/Concepts.pdf
-data/kubernetes-doc-pdf-master/PDFs/Tutorials.pdf
+../../data/kubernetes-doc-pdf-master/PDFs/Reference.pdf
+../../data/kubernetes-doc-pdf-master/PDFs/kubectl-commands.pdf
+../../data/kubernetes-doc-pdf-master/PDFs/Tasks.pdf
+../../data/kubernetes-doc-pdf-master/PDFs/Setup.pdf
+../../data/kubernetes-doc-pdf-master/PDFs/Concepts.pdf
+../../data/kubernetes-doc-pdf-master/PDFs/Tutorials.pdf
